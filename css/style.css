@@ -207,10 +207,11 @@ h3 {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 5rem;
 }
 
 .nav .nav__brand {
-  width: 160px;
+  width: 190px;
 }
 
 /* hero */
